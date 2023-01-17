@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Ashish Rathore/Downloads/line_sensor/simulation/modelsim
+vline_sensor
+!s110 1673606530
+!i10b 1
+!s100 C]:k3;KeGCkiH`9@b;UAz3
+I<NUlNW<Q:2Gn^5f`HI[DJ3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1673606449
+8C:/Users/Ashish Rathore/Downloads/line_sensor/line_sensor.v
+FC:/Users/Ashish Rathore/Downloads/line_sensor/line_sensor.v
+L0 22
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1673606530.000000
+!s107 C:/Users/Ashish Rathore/Downloads/line_sensor/line_sensor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ashish Rathore/Downloads/line_sensor|C:/Users/Ashish Rathore/Downloads/line_sensor/line_sensor.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+C:/Users/Ashish Rathore/Downloads/line_sensor}
+tCvgOpt 0

@@ -1,0 +1,16 @@
+module moduleName (
+    input clk,
+    input l1,
+    input m1,
+    input r1,
+    output wire motor1
+);
+
+parameter s1 = 0,
+          s2 = 0'
+          s3 = 0;
+
+   always@(posedge clk) begin
+      assign r1=(l1&m1&r1)? 1:0;
+   end
+endmodule

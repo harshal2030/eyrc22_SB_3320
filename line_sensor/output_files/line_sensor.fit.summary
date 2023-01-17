@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Jan 15 16:37:20 2023
+Quartus Prime Version : 19.1.0 Build 670 09/22/2019 SJ Lite Edition
+Revision Name : line_sensor
+Top-level Entity Name : line_sensor
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 1,186 / 22,320 ( 5 % )
+    Total combinational functions : 668 / 22,320 ( 3 % )
+    Dedicated logic registers : 953 / 22,320 ( 4 % )
+Total registers : 953
+Total pins : 20 / 154 ( 13 % )
+Total virtual pins : 0
+Total memory bits : 155,648 / 608,256 ( 26 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

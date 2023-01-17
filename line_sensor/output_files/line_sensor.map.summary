@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Jan 15 16:37:03 2023
+Quartus Prime Version : 19.1.0 Build 670 09/22/2019 SJ Lite Edition
+Revision Name : line_sensor
+Top-level Entity Name : line_sensor
+Family : Cyclone IV E
+Total logic elements : 1,216
+    Total combinational functions : 666
+    Dedicated logic registers : 953
+Total registers : 953
+Total pins : 20
+Total virtual pins : 0
+Total memory bits : 155,648
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
