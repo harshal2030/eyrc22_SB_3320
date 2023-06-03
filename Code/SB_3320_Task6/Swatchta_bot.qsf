@@ -99,7 +99,7 @@ set_global_assignment -name SLD_NODE_PARAMETER_ASSIGNMENT "SLD_ADVANCED_TRIGGER_
 set_global_assignment -name SLD_NODE_PARAMETER_ASSIGNMENT "SLD_TRIGGER_LEVEL_PIPELINE=1" -section_id auto_signaltap_0
 set_global_assignment -name SLD_NODE_PARAMETER_ASSIGNMENT "SLD_ENABLE_ADVANCED_TRIGGER=0" -section_id auto_signaltap_0
 set_global_assignment -name VERILOG_FILE bot_turn_control.v
-set_location_assignment PIN_D3 -to OUT
+set_location_assignment PIN_C9 -to OUT
 set_location_assignment PIN_D12 -to S0
 set_location_assignment PIN_A12 -to S1
 set_location_assignment PIN_C11 -to S2
